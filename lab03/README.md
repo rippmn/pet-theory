@@ -12,7 +12,7 @@ Martin Omander
 
 ## Architecture
 
-![GSP644: Create a PDF with Cloud Run](https://github.com/rosera/pettheory/blob/master/images/gsp644-create-pdf.png "Pet Theory - GSP644")
+![GSP644: Create a PDF with Cloud Run](https://github.com/rosera/pettheory/blob/main/images/gsp644-create-pdf.png "Pet Theory - GSP644")
 
 ## Description: 
 
